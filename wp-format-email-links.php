@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Format wp links
  * Plugin URI: graunephar.lol/wp-email-link
- * Description: This plugin removes all <> links from emails and instead insert proper <a> tags. If you like me uses a SMTP service for emails which escapes weird shit like links encapsulated in <>, this plugin is for you.
+ * Description: This plugin removes all <> links from emails and instead insert proper &#60;a&#62; tags. If you like me uses a SMTP service for emails which escapes weird shit like links encapsulated in &#60;&#62;, this plugin is for you.
  * Version: 1.0
  * Author: Daniel Graungaard
  * Author URI: http://graunephar.lol
